@@ -1,0 +1,9 @@
+x,y,classe
+8.0,7.0,Agregador 1
+6.0,4.0,Agregador 2
+8.0,4.0,Agregador 3
+3.0,1.0,Agregador 4
+8.0,9.0,Agregador 5
+8.0,6.0,Agregador 6
+3.0,8.0,Agregador 7
+8.0,3.0,Agregador 8

@@ -1,0 +1,9 @@
+x   y	classe	
+0.0 4.0 Medidor 1
+8.0 6.0 Medidor 2
+9.0 2.0 Medidor 3
+6.0 2.0 Medidor 4
+5.0 0.0 Medidor 5
+4.0 4.0 Medidor 6
+7.0 2.0 Medidor 7
+9.0 7.0 Medidor 8

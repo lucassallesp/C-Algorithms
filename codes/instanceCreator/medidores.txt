@@ -1,0 +1,9 @@
+===========================================
+           INSTANCIA CRIADA
+===========================================
+--> Numero de Medidores Gerado:       1
+
+Medidor 1
+>> Posicao em X:                      2
+>> Posicao em Y:                      2
+
