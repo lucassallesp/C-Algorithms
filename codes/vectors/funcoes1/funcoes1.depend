@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617051727 source:c:\users\lucas salles\desktop\lucas\labwindows\vetores 1\funcoes1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
