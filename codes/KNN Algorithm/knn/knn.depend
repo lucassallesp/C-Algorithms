@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635468979 source:c:\users\lucas salles\desktop\lucas\labwindows\knn algorithm\knn\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<set>
+	<map>
+
